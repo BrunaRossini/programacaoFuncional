@@ -1,4 +1,4 @@
-package listaexercicios;
+package listaexercicios.video3;
 
 import java.util.Arrays;
 import java.util.List;
